@@ -6,7 +6,8 @@
   <p><i>$VIOLET - Intelligent Trading, Automated Performance</i></p>
 
   <a href="https://x.com/VioletAI__">
-    <img src="https://img.shields.io/twitter/follow/VioletAI__?style=social" alt="Follow us on Twitter" />
+    <img src="https://img.shields.io/twitter/follow/VioletAI__?style=social" alt="Follow us on Twitter"
+(CA):** `TBA`/>
   </a>
 </div>
 
