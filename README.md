@@ -7,11 +7,11 @@
 
   <a href="https://x.com/VioletAI__">
     <img src="https://img.shields.io/twitter/follow/VioletAI__?style=social" alt="Follow us on Twitter"/>
-    (CA):** `TBA`
   </a>
 </div>
 
 ---
+(CA):** `TBA`
 
 ## 🌟 Features at a Glance
 
@@ -33,7 +33,7 @@ VIOLET is a sophisticated autonomous agent framework built on the Solana blockch
 - **Rapid Transactions**: Solana's network ensures sub-second execution.
 - **User-Centric Design**: Tailored for everyone from beginners to pros.
 
-**Contract Address (CA):** `TBA` 
+
 
 ---
 
