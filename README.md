@@ -5,9 +5,7 @@
   <h3>Advanced AI-Powered Trading Agent on Solana</h3>
   <p><i>$VIOLET - Intelligent Trading, Automated Performance</i></p>
 
-  [![CI](https://github.com/your-username/violet-ai-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/violet-ai-agent/actions/workflows/ci.yml)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-  [![Version](https://img.shields.io/badge/version-0.1.0-blue)](./CHANGELOG.md)
+ 
   
   <a href="https://x.com/VioletAI__">
     <img src="https://img.shields.io/twitter/follow/VioletAI__?style=social" alt="Follow us on Twitter" />
