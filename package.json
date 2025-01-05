@@ -1,0 +1,42 @@
+{
+  "name": "@violet/agent",
+  "version": "0.1.0",
+  "description": "AI agent framework built on Solana blockchain",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "prepare": "husky install",
+    "docs": "typedoc"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "@solana/spl-token": "^0.3.9",
+    "bs58": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.10",
+    "@types/node": "^20.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0",
+    "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.0",
+    "ts-jest": "^29.1.1",
+    "typedoc": "^0.25.3",
+    "typescript": "^5.3.2"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "ai",
+    "agent",
+    "web3"
+  ],
+  "author": "VIOLET Team",
+  "license": "MIT"
+}
